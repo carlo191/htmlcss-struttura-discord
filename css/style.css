@@ -1,0 +1,58 @@
+/* # RESET */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+/* # DEBUG */
+.debug {
+  background-color: brown;
+  border: 2px dashed black;
+  padding: 10px;
+}
+.debug .debug {
+  background-color: yellow;
+}
+
+.debug .debug .debug {
+  background-color: coral;
+}
+
+.debug .debug .debug .debug {
+  background-color: pink;
+}
+
+/* # UTILS */
+
+.container {
+  margin: 0 auto;
+  padding: 0 10px;
+  width: 1000px;
+  max-width: 100%;
+}
+
+/* # HEADER */
+
+.page-header {
+  background-color: aquamarine;
+  justify-content: center;
+  display: flex;
+}
+
+.logo {
+  height: 40px;
+  width: 300px;
+}
+.link-item {
+  display: inline-block;
+}
+
+.links {
+  height: 40px;
+  width: 300px;
+}
+.login {
+  height: 40px;
+  width: 300px;
+}
