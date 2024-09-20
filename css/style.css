@@ -70,6 +70,50 @@
   background-color: rosybrown;
   display: flex;
   border: 2px dashed black;
-  margin: 0px 172px;
-  width: 615px;
+  margin: 0px 308px;
+  width: 902px;
+}
+
+/* # MAIN */
+
+/*main {
+  display: flex;
+  justify-content: center;
+}*/
+
+.rose-panel {
+  background-color: bisque;
+  height: 270px;
+  width: 333px;
+  border: 2px dashed black;
+}
+
+.blu-panel {
+  background-color: blue;
+  height: 270px;
+  width: 700px;
+  border: 2px dashed black;
+}
+
+.first-section {
+  margin: 39px;
+  display: flex;
+  justify-content: center;
+}
+
+.second-section {
+  background-color: grey;
+  margin: 0px;
+  display: flex;
+  justify-content: center;
+  padding: 0
+  margin-top: 15px;
+  padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.third-section {
+  margin: 39px;
+  display: flex;
+  justify-content: center;
 }
