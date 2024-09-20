@@ -117,3 +117,16 @@
   display: flex;
   justify-content: center;
 }
+
+.green-panel{ 
+  height: 270px;
+  width: 1033px;
+  border: 2px dashed black;
+  background-color: green;
+}
+
+.fourth-section{
+  background-color: grey;
+  display: flex;
+    justify-content: center;
+}
