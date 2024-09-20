@@ -56,3 +56,20 @@
   height: 40px;
   width: 300px;
 }
+.low-header {
+  height: 250px;
+  width: 1536px;
+  background-color: blue;
+  display: flex;
+  align-items: center;
+}
+
+.q-rosa {
+  height: 200px;
+  width: 200px;
+  background-color: rosybrown;
+  display: flex;
+  border: 2px dashed black;
+  margin: 0px 172px;
+  width: 615px;
+}
