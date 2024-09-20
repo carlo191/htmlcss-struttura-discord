@@ -159,3 +159,35 @@
   width: 150px;
   border: 2px dashed white;
 }
+
+.foot-footer{
+  display: flex;
+  justify-content: space-between;
+  background-color: grey;
+padding-top: 15px;}
+
+.logo-2{
+  height: 40px;
+  width: 100px;
+  background-color: rosybrown;
+  border: 2px dashed black
+
+
+}
+
+.bottone{
+  height: 40px;
+  width: 100px;
+  border: 2px dashed black;
+  background-color: rosybrown;
+
+
+
+
+}
+
+.contenitor-tasti{
+height: 100px;
+width: 200px;
+background-color: aquamarine;
+}
