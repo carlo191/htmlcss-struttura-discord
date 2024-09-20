@@ -132,3 +132,30 @@
     padding-top: 15px;
     padding-bottom: 15px;
 }
+.top-footer{
+  display: flex;
+  justify-content: center;
+  padding-top: 5px;
+    padding-bottom: 15px;
+    background-color: black;
+
+
+
+
+
+
+}
+
+.red-panel{
+  background-color: red;
+  height: 300px;
+  width: 150px;
+  border: 2px dashed black;
+
+}
+.acquamarine-panel{
+  background-color: aquamarine;
+  height: 300px;
+  width: 150px;
+  border: 2px dashed white;
+}
