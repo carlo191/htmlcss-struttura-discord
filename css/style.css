@@ -166,7 +166,10 @@ padding-top: 15px;}
   height: 40px;
   width: 100px;
   background-color: rosybrown;
-  border: 2px dashed black
+  border: 2px dashed black;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  text-align: center;
 
 
 }
@@ -176,16 +179,29 @@ padding-top: 15px;}
   width: 100px;
   border: 2px dashed black;
   background-color: rosybrown;
-
-
-
-
+  display: flex;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
+
+
+
+
+
 .contenitor-tasti{
-height: 100px;
-width: 200px;
-background-color: aquamarine;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+  padding-left: 0px;
+  border-left-width: 0px;
+  margin-left: 380px;
+  background-color: aquamarine;
+  margin-right: 380px;
+  
 }
 
 footer{
