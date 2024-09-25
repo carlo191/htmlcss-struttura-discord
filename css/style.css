@@ -58,7 +58,7 @@
 }
 .low-header {
   height: 250px;
-  width: 1536px;
+  
   background-color: blue;
   display: flex;
   align-items: center;
@@ -68,9 +68,9 @@
   height: 200px;
   width: 200px;
   background-color: rosybrown;
-  display: flex;
+  
   border: 2px dashed black;
-  margin: 0px 308px;
+  margin: 0px auto;
   width: 902px;
 }
 
